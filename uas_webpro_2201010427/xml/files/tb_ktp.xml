@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <nik>12345676544300</nik>
+    <nama>Yohanes Kristian</nama>
+    <tempat_lahir>Jakarta</tempat_lahir>
+    <tgl_lahir>09-07-1987</tgl_lahir>
+    <jekel>L</jekel>
+    <alamat>Badung</alamat>
+    <agama>Khatolik</agama>
+    <status_perkawinana>Belum Kawin</status_perkawinana>
+    <pekerjaan>Dosen</pekerjaan>
+    <kewarganegaraan>Indonesia</kewarganegaraan>
+    <status_berlaku>Seumur Hidup</status_berlaku>
+  </user>
+  <user>
+    <nik>00789909876545</nik>
+    <nama>Edesius Mario Gase Amekae</nama>
+    <tempat_lahir>Ruteng</tempat_lahir>
+    <tgl_lahir>23-08-2000</tgl_lahir>
+    <jekel>L</jekel>
+    <alamat>Kupang</alamat>
+    <agama>Khatolik</agama>
+    <status_perkawinana>Belum Kawin</status_perkawinana>
+    <pekerjaan>Mahasiswa</pekerjaan>
+    <kewarganegaraan>Indonesia</kewarganegaraan>
+    <status_berlaku>Seumur Hidup</status_berlaku>
+  </user>
+  <user>
+    <nik>20056700098</nik>
+    <nama>Placida Trini Sigi Mane</nama>
+    <tempat_lahir>ruteng</tempat_lahir>
+    <tgl_lahir>03-09-2004</tgl_lahir>
+    <jekel>P</jekel>
+    <alamat>Manggarai</alamat>
+    <agama>Khatolik</agama>
+    <status_perkawinana>Belum Kawin</status_perkawinana>
+    <pekerjaan>Mahasiswa</pekerjaan>
+    <kewarganegaraan>Indonesia</kewarganegaraan>
+    <status_berlaku>Seumur Hidup</status_berlaku>
+  </user>
+  <user>
+    <nik>200537890147</nik>
+    <nama>Yohana Yasni Mego</nama>
+    <tempat_lahir>Borong</tempat_lahir>
+    <tgl_lahir>12-09-2003</tgl_lahir>
+    <jekel>P</jekel>
+    <alamat>Redong</alamat>
+    <agama>Khatolik</agama>
+    <status_perkawinana>Belum Kawin</status_perkawinana>
+    <pekerjaan>mahasiswa</pekerjaan>
+    <kewarganegaraan>Indonesia</kewarganegaraan>
+    <status_berlaku>Seumur Hidup</status_berlaku>
+  </user>
+  <user>
+    <nik>2345678909</nik>
+    <nama>muhammad Aldianto</nama>
+    <tempat_lahir>jawa</tempat_lahir>
+    <tgl_lahir>22-02-1998</tgl_lahir>
+    <jekel>L</jekel>
+    <alamat>Bandung</alamat>
+    <agama>Islam</agama>
+    <status_perkawinana>Belum Kawin</status_perkawinana>
+    <pekerjaan>PNS</pekerjaan>
+    <kewarganegaraan>Indonesia</kewarganegaraan>
+    <status_berlaku>Seumur Hidup</status_berlaku>
+  </user>
+</users>

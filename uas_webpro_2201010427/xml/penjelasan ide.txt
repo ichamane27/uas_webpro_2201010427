@@ -1,0 +1,14 @@
+Dalam projek uas ini saya membuat sebuah web untuk memasukan data pada sistem ktp 
+Berikut adalah penjelasan tentang ide-ide utama dalam membuat sistem KTP:
+1.Identifikasi dan Verifikasi Identitas: Ide utama dalam sistem KTP adalah untuk mengidentifikasi secara unik setiap data dan memverifikasi 
+					identitas anggota.Untuk mencapai hal ini, sistem KTP biasanya menggunakan informasi 
+					pribadi.
+
+2.penambahanData: dalam proses penambaha data,user akan memasukan data diri anggota seperti NIK,NAMA,TEMPAT LAHIR,TANGGAL LAHIR,ALAMAT,AGAMA,
+		STATUS PERKAWINAN,PEKERJAAN,KEWARGANEGARAAN DAN STATUS AKTIF.Setelah pendaftaran, sistem KTP harus mampu 
+		memproses dan menyimpan data dengan aman.
+		
+3.Pengolahan Data: Setelah pendaftaran, sistem KTP harus mampu memproses dan menyimpan data penduduk dengan aman. 
+		Ini melibatkan pembuatan dan pemeliharaan basis data yang memadai untuk menyimpan informasi anggota
+
+4.sistem ktp ini juga dirancang agar dapat menghapus dan mengupdate data anggotanya.
